@@ -1,9 +1,4 @@
-# NSFWAnimeTiddiesDiscordBot
-This discord bot will send /r/BigAnimeTiddies to a discord chat
-
-# Requirements
-Python Packages:
-praw and discord
+# discord.py-tutorial
 
 ```
  .      .;.     ....                 .,.          .:l;';'..':llllllllllllllollllll'.;.    .oo.'d;..     'kc'kWx.  .;c,:loooo:',.           cXMMO' .kWM
